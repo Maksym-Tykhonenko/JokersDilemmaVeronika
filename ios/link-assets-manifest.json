@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Handlee-Regular.ttf",
+      "sha1": "7bfbcc74e78e521eac4dba8f33817675f9b1340c"
+    },
+    {
+      "path": "assets/fonts/MontaguSlab-VariableFont_opsz,wght.ttf",
+      "sha1": "5314d80e9b467ae6b8d311bcafa1ecb6f3ad7e0d"
+    },
+    {
+      "path": "assets/fonts/MontaguSlab_24pt-Bold.ttf",
+      "sha1": "83917ec6321e671691c52e4cdab30ef5281ef02e"
+    },
+    {
+      "path": "assets/fonts/Montserrat-VariableFont_wght.ttf",
+      "sha1": "e3f5228e62455228b55694f1cb5ac40f9682a86b"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    }
+  ]
+}
